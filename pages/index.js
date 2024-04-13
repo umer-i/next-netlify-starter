@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Trader ( 20000 in funding) - Data scientist - drcglobal.org (100000 market cap) -   <code>umerbtc@protonmail.com</code>
         </p>
       </main>
 
